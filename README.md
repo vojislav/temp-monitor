@@ -4,4 +4,8 @@ A simple temperature monitor for Linux based systems. The code is set to loop a 
 The only thing that is needed for this script to work is a package called "sensors". You can easily install it with the command:
 <code>sudo apt install sensors</code>
 
-Be sure to place the file in the root directory. Then just type <code>./temp</code> to run it. Enjoy :)
+Be sure to place the file in the root directory. Then just type <code>./temp</code> to run it. 
+
+To stop the script, use <code>Ctrl + C</code>.
+
+Enjoy :)
