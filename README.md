@@ -8,6 +8,8 @@ Be sure to place the file in the root directory. Then just type <code>./temp</co
 
 To stop the script, use <code>Ctrl + C</code>.
 
+Enjoy :)
+
 Example:
 
 <code>
@@ -25,5 +27,3 @@ Adapter: Virtual device
 <code>
 temp1:        +60.8°C  (crit = +104.8°C)
 </code>
-
-Enjoy :)
