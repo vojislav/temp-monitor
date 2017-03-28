@@ -1,0 +1,2 @@
+echo "You need to install lm-sensors sudo apt install lm-sensors"
+for i in {1..100}; do sensors; sleep 1; done
